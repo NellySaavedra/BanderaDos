@@ -1,0 +1,28 @@
+div{
+	height: 100px;
+	width: 400px;
+	font-size: 40px;
+}
+.amarillo {
+	background-color: yellow;
+}
+.rojo{
+	background-color: red;
+}
+.azul{
+	background-color: blue;
+}
+.verde{
+	background-color: green;
+}
+.rosa{
+	background-color: pink;
+}
+.morado{
+	background-color: purple;
+}
+.pdl5{
+	padding-left: 5px;
+}
+.pdt5{
+	padding-top: 5px;
